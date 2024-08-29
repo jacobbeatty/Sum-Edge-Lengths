@@ -1,6 +1,6 @@
 # SumEdgeLengths Plugin
 
-This is a Blender plugin that calculates the total length of all edges in a mesh.
+This is a Blender plugin that calculates the total length of all selected edges and displays the sum in the status bar.
 
 ## Installation
 
