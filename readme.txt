@@ -5,8 +5,9 @@ This is a Blender plugin that calculates the total length of all selected edges 
 ## Installation
 
 1. Open Blender and go to `Edit` > `Preferences`.
-2. In the Preferences window, click on the `Add-ons` tab.
-3. Click on the `Install...` button and select the downloaded plugin file.
+2. In the Preferences window, click on the `Get Extensions` tab.
+3. Click on the drop down arrow button and select "Install from disk".
+4. Select the zip file.
 4. Enable the plugin by checking the checkbox next to its name.
 
 ## Usage
