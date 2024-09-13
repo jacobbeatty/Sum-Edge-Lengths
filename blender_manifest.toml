@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "sum_edge_lengths"
+version = "1.1.0"
+name = "Sum Edge Lengths"
+tagline = "Displays the sum of selected Edge Lengths"
+maintainer = "Jacob Beatty"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
