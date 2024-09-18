@@ -1,3 +1,8 @@
+#This feature is now merged with MeasureIt. Please install MeasureIt if you'd like to use Sum Edge Lengths. Thank you!#
+
+_______________________
+
+
 # SumEdgeLengths Plugin
 
 This is a Blender plugin that calculates the total length of all selected edges and displays the sum in the status bar.
